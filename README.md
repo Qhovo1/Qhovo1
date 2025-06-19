@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Qianhong Guo</h1>
+<p align="center">
+  🎓 A Chinese PhD candidate <br>
+  💻 Researching Large Language Models (LLMs) and Their Applications <br>
+  ✉️ Contact me: <a href="mailto:guoqianh1@nudt.edu.cn">guoqianh1@nudt.edu.cn</a>
+</p>
+## Research Interests
 
-<!--
-**Qhovo1/Qhovo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **LLM Evaluation**
+- **AI for Security**
 
-Here are some ideas to get you started:
+## Connect Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧 Email: [guoqianh1@nudt.edu.cn](mailto:guoqianh1@nudt.edu.cn)
+
+## About Me
+
+I’m currently a PhD student passionate about leveraging large models to solve real-world problems, especially in the context of AI for security and LLM evaluation. 
+
