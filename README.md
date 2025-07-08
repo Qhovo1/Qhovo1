@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Qianhong Guo</h1>
 <p align="center">
   🎓 A Chinese PhD candidate <br>
-  💻 Researching Large Language Models (LLMs) and Their Applications <br>
+  💻 Researching Large Language Models (LLMs) Applications <br>
   ✉️ Contact me: <a href="mailto:guoqianh1@nudt.edu.cn">guoqianh1@nudt.edu.cn</a>
 </p>
 
