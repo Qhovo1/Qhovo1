@@ -8,4 +8,4 @@
 
 - **LLM Evaluation**
 - **AI for Pentest**
-- **Multi-Agent collaboration**
+- **Multi-Agent**
