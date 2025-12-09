@@ -7,5 +7,5 @@
 ## Research Interests
 
 - **LLM Evaluation**
-- **AI for Security**
-- **AI Applications**
+- **AI for Pentest**
+- **Multi-Agent collaboration**
